@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d974b877fd9f7c52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SDN/SDN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6603f5500d67a2aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.1 Understanding Software-Defined Networking (SDN).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IPV6/1.7 Case studies and real-world examples.md",
+                "file": "1.1 Understanding Software-Defined Networking (SDN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IPV6/1.7 Case studies and real-world examples.md",
+                "file": "1.1 Understanding Software-Defined Networking (SDN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IPV6/1.7 Case studies and real-world examples.md"
+                "file": "1.1 Understanding Software-Defined Networking (SDN).md"
               }
             }
           }
@@ -146,8 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f8be821ba96fcb9",
+  "active": "6603f5500d67a2aa",
   "lastOpenFiles": [
+    "SDN/SDN.md",
+    "1.1 Understanding Software-Defined Networking (SDN).md",
+    "IPV6/1.7 Case studies and real-world examples.md",
     "SDN",
     "IPV6/1.0 Outline.md",
     "IPV6/1.1 Introduction to IPv6.md",

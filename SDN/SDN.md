@@ -1,0 +1,72 @@
+
+
+---
+
+# **Software-Defined Networking (SDN)**
+
+## **Part 1: Introduction to SDN **
+
+### **1.1 Definition of SDN**
+
+- Understand the concept of SDN and its role in modern networking.
+
+### **1.2 Evolution of SDN**
+
+- Learn about the evolution of networking that led to the development of SDN.
+
+### **1.3 Benefits of SDN**
+
+- Discuss the benefits of SDN, such as centralized control, programmability, and rapid innovation.
+
+## **Part 2: SDN Architecture **
+
+### **2.1 Overview of SDN Architecture**
+
+- Understand the three layers of SDN architecture: Application Layer, Control Layer, and Infrastructure Layer.
+
+### **2.2 Role of SDN Controller**
+
+- Learn about the role of the SDN controller as the “brain” of the network.
+
+### **2.3 Southbound and Northbound APIs**
+
+- Discuss the role of APIs in SDN, including OpenFlow as a popular southbound API.
+
+## **Break **
+
+## **Part 3: SDN Applications**
+
+### **3.1 Network Virtualization**
+
+- Understand how SDN can be used to implement network virtualization.
+
+### **3.2 Network Function Virtualization (NFV)**
+
+- Discuss the concept of NFV and its relationship with SDN.
+
+### **3.3 SDN in Data Centers**
+
+- Learn about the use of SDN in managing and optimizing data center networks.
+
+## **Part 4: Hands-on Lab **
+
+### **4.1 Setting up an SDN Environment**
+
+- Guide students through the process of setting up a basic SDN environment using tools like Mininet and OpenDaylight.
+
+### **4.2 Simple SDN Experiment**
+
+- Conduct a simple experiment to demonstrate the programmability and flexibility of SDN.
+
+## **Part 5: Discussion and Q&A **
+
+### **5.1 Discussion on SDN Use Cases**
+
+- Discuss various real-world use cases of SDN.
+
+### **5.2 Q&A**
+
+- Open the floor for students to ask questions and clarify their doubts.
+
+---
+
