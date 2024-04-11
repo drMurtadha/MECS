@@ -19,7 +19,7 @@
     },
     "otherRepo": [],
     "verifiedRepo": true,
-    "rateLimit": 4977
+    "rateLimit": 0
   },
   "upload": {
     "behavior": "fixed",
@@ -69,7 +69,8 @@
     "notes": false,
     "folder": "",
     "convertEmbedToLinks": "keep",
-    "charConvert": "->"
+    "charConvert": "->",
+    "useObsidianFolder": true
   },
   "plugin": {
     "shareKey": "share",
