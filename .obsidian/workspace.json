@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "9d32e9f49b579284",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6bd37ff376c46af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d3f54c5b32d013f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IPV6/1.7 Case studies and real-world examples.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "087c7e25ec5fada7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2afd79273f750d90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f8be821ba96fcb9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "35d9ec1d142e67d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "63b6c82e72cbf9a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7c852a0f3477abe7",
+    "type": "split",
+    "children": [
+      {
+        "id": "48c5b4b78558b1dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a03ac32e3462d2f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IPV6/1.7 Case studies and real-world examples.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2048f1291c7cd7fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "IPV6/1.7 Case studies and real-world examples.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d242e10e66eaacc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c4b667dbe383b59b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "IPV6/1.7 Case studies and real-world examples.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0f8be821ba96fcb9",
+  "lastOpenFiles": [
+    "IPV6/1.0 Outline.md",
+    "IPV6/1.1 Introduction to IPv6.md",
+    "IPV6",
+    "IPV6/1.3 Address configuration.md",
+    "IPV6/1.2 IPv6 addressing.md"
+  ]
+}
