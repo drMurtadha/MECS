@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDN/1.4 Use Cases and Benefits of Software-Defined Networking (SDN).md",
+                "file": "SDN/1.2 Software-Defined Networking (SDN) Architecture and Comparison with Traditional Networking.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDN/1.4 Use Cases and Benefits of Software-Defined Networking (SDN).md",
+                "file": "SDN/1.2 Software-Defined Networking (SDN) Architecture and Comparison with Traditional Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SDN/1.4 Use Cases and Benefits of Software-Defined Networking (SDN).md",
+                "file": "SDN/1.2 Software-Defined Networking (SDN) Architecture and Comparison with Traditional Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SDN/1.4 Use Cases and Benefits of Software-Defined Networking (SDN).md"
+                "file": "SDN/1.2 Software-Defined Networking (SDN) Architecture and Comparison with Traditional Networking.md"
               }
             }
           }
@@ -221,12 +221,12 @@
   },
   "active": "f34d1bd6fb4e474b",
   "lastOpenFiles": [
+    "SDN/1.1 Introduction of Software-Defined Networking (SDN).md",
+    "SDN/1.4 Use Cases and Benefits of Software-Defined Networking (SDN).md",
     "SDN/1.3 Role and Popular Controllers in Software-Defined Networking (SDN).md",
     "SDN/1.2 Software-Defined Networking (SDN) Architecture and Comparison with Traditional Networking.md",
-    "SDN/1.1 Introduction of Software-Defined Networking (SDN).md",
-    "SDN/1.0 Outline.md",
     "SDN/1.5 Future Trends in Software-Defined Networking (SDN) and Its Impact on Networking.md",
-    "SDN/1.4 Use Cases and Benefits of Software-Defined Networking (SDN).md",
+    "SDN/1.0 Outline.md",
     "1.3 f.md",
     "README.md",
     "IPV6/1.0 Outline.md",
