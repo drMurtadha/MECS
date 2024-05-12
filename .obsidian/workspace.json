@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5c2da6e4cec6b088",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exploring Underwater Acoustic Sensor Networks with SCITE AI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDN/1.2 Software-Defined Networking (SDN) Architecture and Comparison with Traditional Networking.md",
+                "file": "Exploring Underwater Acoustic Sensor Networks with SCITE AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SDN/1.2 Software-Defined Networking (SDN) Architecture and Comparison with Traditional Networking.md",
+                "file": "Exploring Underwater Acoustic Sensor Networks with SCITE AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SDN/1.2 Software-Defined Networking (SDN) Architecture and Comparison with Traditional Networking.md"
+                "file": "Exploring Underwater Acoustic Sensor Networks with SCITE AI.md"
               }
             }
           }
@@ -219,13 +231,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f8be821ba96fcb9",
+  "active": "5c2da6e4cec6b088",
   "lastOpenFiles": [
+    "SDN/1.2 Software-Defined Networking (SDN) Architecture and Comparison with Traditional Networking.md",
+    "Exploring Underwater Acoustic Sensor Networks with SCITE AI.md",
     "SensorNetwork",
     "SDN/1.1 Introduction of Software-Defined Networking (SDN).md",
     "SDN/1.4 Use Cases and Benefits of Software-Defined Networking (SDN).md",
     "SDN/1.3 Role and Popular Controllers in Software-Defined Networking (SDN).md",
-    "SDN/1.2 Software-Defined Networking (SDN) Architecture and Comparison with Traditional Networking.md",
     "SDN/1.5 Future Trends in Software-Defined Networking (SDN) and Its Impact on Networking.md",
     "SDN/1.0 Outline.md",
     "1.3 f.md",
