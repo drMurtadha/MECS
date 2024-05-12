@@ -219,8 +219,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f34d1bd6fb4e474b",
+  "active": "0f8be821ba96fcb9",
   "lastOpenFiles": [
+    "SensorNetwork",
     "SDN/1.1 Introduction of Software-Defined Networking (SDN).md",
     "SDN/1.4 Use Cases and Benefits of Software-Defined Networking (SDN).md",
     "SDN/1.3 Role and Popular Controllers in Software-Defined Networking (SDN).md",
