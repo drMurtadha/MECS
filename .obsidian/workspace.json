@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exploring Underwater Acoustic Sensor Networks with SCITE AI.md",
+                "file": "SensorNetwork/Exploring Underwater Acoustic Sensor Networks with SCITE AI.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exploring Underwater Acoustic Sensor Networks with SCITE AI.md",
+                "file": "SensorNetwork/Exploring Underwater Acoustic Sensor Networks with SCITE AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exploring Underwater Acoustic Sensor Networks with SCITE AI.md",
+                "file": "SensorNetwork/Exploring Underwater Acoustic Sensor Networks with SCITE AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exploring Underwater Acoustic Sensor Networks with SCITE AI.md"
+                "file": "SensorNetwork/Exploring Underwater Acoustic Sensor Networks with SCITE AI.md"
               }
             }
           }
@@ -231,10 +231,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c2da6e4cec6b088",
+  "active": "0f8be821ba96fcb9",
   "lastOpenFiles": [
     "SDN/1.2 Software-Defined Networking (SDN) Architecture and Comparison with Traditional Networking.md",
-    "Exploring Underwater Acoustic Sensor Networks with SCITE AI.md",
+    "SensorNetwork/Exploring Underwater Acoustic Sensor Networks with SCITE AI.md",
     "SensorNetwork",
     "SDN/1.1 Introduction of Software-Defined Networking (SDN).md",
     "SDN/1.4 Use Cases and Benefits of Software-Defined Networking (SDN).md",
