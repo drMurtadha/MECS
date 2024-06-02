@@ -1,4 +1,4 @@
-Sure, here are 10 alternative assignments (AA) that utilize CloudSIM for the course of Advanced Computer Network and Cloud Computing:
+10 alternative assignments (AA) that utilize CloudSIM for the course of Advanced Computer Network and Cloud Computing:
 
 1. **Cloud Resource Allocation**: Implement a resource allocation strategy in CloudSIM and compare its performance with existing strategies. The strategy can be based on parameters like cost, availability, or load balancing.
     

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AA Cloud Service Broker.md",
+                "file": "Cloud Computing/1b Mini Project-Cloud Service Broker.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AA Energy-Efficient Cloud Computing.md",
+                "file": "Cloud Computing/1a Mini Project- Energy-Efficient Cloud Computing.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AA Cloud Service Broker.md",
+                "file": "Cloud Computing/1b Mini Project-Cloud Service Broker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AA Cloud Service Broker.md",
+                "file": "Cloud Computing/1b Mini Project-Cloud Service Broker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AA Cloud Service Broker.md"
+                "file": "Cloud Computing/1b Mini Project-Cloud Service Broker.md"
               }
             }
           }
@@ -160,14 +160,15 @@
   },
   "active": "8857c6f9d386e315",
   "lastOpenFiles": [
+    "Cloud Computing/1a Mini Project- Energy-Efficient Cloud Computing.md",
+    "Cloud Computing/1b Mini Project-Cloud Service Broker.md",
+    "Cloud Computing/1.0 CloudSim Setup.md",
     "List of AA.md",
+    "Cloud Computing",
     "SDN/1.2 Software-Defined Networking (SDN) Architecture and Comparison with Traditional Networking.md",
     "SDN/1.0 Outline.md",
     "IPV6/1.7 Case studies and real-world examples.md",
-    "AA Energy-Efficient Cloud Computing.md",
-    "AA Cloud Service Broker.md",
     "AA Cloud Resource Allocation.md",
-    "CloudSim Setup.md",
     "Document",
     "SensorNetwork/Exploring Underwater Acoustic Sensor Networks with SCITE AI.md",
     "SensorNetwork",
