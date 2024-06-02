@@ -8,126 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8d3f54c5b32d013f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IPV6/1.7 Case studies and real-world examples.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d974b877fd9f7c52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SDN/1.0 Outline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6603f5500d67a2aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SDN/1.0 Outline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eadf30923fd05f65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SDN/1.0 Outline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fe8f0e003afc68f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SDN/1.0 Outline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24b8bf15f15e0508",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SDN/1.0 Outline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f34d1bd6fb4e474b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SDN/1.2 Software-Defined Networking (SDN) Architecture and Comparison with Traditional Networking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c2da6e4cec6b088",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SensorNetwork/Exploring Underwater Acoustic Sensor Networks with SCITE AI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3482f94981c4ad2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "List of AA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebad9fd14fef5cab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AA Cloud Resource Allocation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8857c6f9d386e315",
             "type": "leaf",
             "state": {
@@ -145,26 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AA Cloud Resource Allocation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df629e6114af09ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AA Cloud Resource Allocation.md",
+                "file": "AA Energy-Efficient Cloud Computing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AA Cloud Resource Allocation.md",
+                "file": "AA Cloud Service Broker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AA Cloud Resource Allocation.md",
+                "file": "AA Cloud Service Broker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AA Cloud Resource Allocation.md"
+                "file": "AA Cloud Service Broker.md"
               }
             }
           }
@@ -291,23 +158,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df629e6114af09ff",
+  "active": "8857c6f9d386e315",
   "lastOpenFiles": [
-    "AA Cloud Service Broker.md",
+    "List of AA.md",
+    "SDN/1.2 Software-Defined Networking (SDN) Architecture and Comparison with Traditional Networking.md",
+    "SDN/1.0 Outline.md",
+    "IPV6/1.7 Case studies and real-world examples.md",
     "AA Energy-Efficient Cloud Computing.md",
+    "AA Cloud Service Broker.md",
     "AA Cloud Resource Allocation.md",
     "CloudSim Setup.md",
-    "List of AA.md",
-    "IPV6/1.7 Case studies and real-world examples.md",
     "Document",
-    "SDN/1.2 Software-Defined Networking (SDN) Architecture and Comparison with Traditional Networking.md",
     "SensorNetwork/Exploring Underwater Acoustic Sensor Networks with SCITE AI.md",
     "SensorNetwork",
     "SDN/1.1 Introduction of Software-Defined Networking (SDN).md",
     "SDN/1.4 Use Cases and Benefits of Software-Defined Networking (SDN).md",
     "SDN/1.3 Role and Popular Controllers in Software-Defined Networking (SDN).md",
     "SDN/1.5 Future Trends in Software-Defined Networking (SDN) and Its Impact on Networking.md",
-    "SDN/1.0 Outline.md",
     "1.3 f.md",
     "README.md",
     "IPV6/1.0 Outline.md",
