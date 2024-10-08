@@ -1,3 +1,4 @@
+**1.7 Case studies and real-world examples**
 
 Some successful IPv6 deployment stories:
 
