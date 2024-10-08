@@ -1,4 +1,4 @@
-**IPV6/1.6 Deployment challenges**
+**1.6 Deployment challenges**
 
 Common challenges faced during IPv6 adoption:
 
