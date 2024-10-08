@@ -1,3 +1,5 @@
+**1.2 IPv6 addressing.md**
+
 **IPv6 addresses structure**. 
 
 1. **Length and Notation**:
