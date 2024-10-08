@@ -1,4 +1,4 @@
-**1.2 IPv6 addressing.md**
+**1.2 IPv6 addressing**
 
 **IPv6 addresses structure**. 
 
