@@ -1,3 +1,5 @@
+**1.3 Address configuration**
+
 Methods for configuring **IPv6 addresses**:
 
 1. **Stateless Address Autoconfiguration (SLAAC)**:
