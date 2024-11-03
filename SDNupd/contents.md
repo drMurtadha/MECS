@@ -12,6 +12,8 @@
 8. [SDN and Network Function Virtualization (NFV)](#sdn-and-network-function-virtualization-nfv)
 9. [Research Perspectives and Case Studies](#research-perspectives-and-case-studies)
 10. [Activity: Writing Critiques on Recent SDN Research](#activity-writing-critiques-on-recent-sdn-research)
+11. [Learning Outcomes](#learning-outcomes)
+12. [Tutorial Questions](#tutorial-questions)
 
 ---
 
@@ -98,6 +100,43 @@ Students are encouraged to explore a recent journal article related to SDN and w
 - **Summarize the Main Contribution**: What is the main idea of the paper, and why is it significant?
 - **Strengths and Weaknesses**: Discuss the strengths of the research and any limitations or areas where the authors could have done more.
 - **Future Directions**: Suggest potential areas for further research inspired by the article.
+
+### Rubric for Scoring
+
+| Criterion                       | 0-19% (Weakest)             | 20-39% (Weak)              | 40-59% (Average)           | 60-79% (Good)              | 80-99% (Strongest)          |
+|---------------------------------|-----------------------------|----------------------------|----------------------------|----------------------------|-----------------------------|
+| **Summary of Main Contribution**| Summary is inaccurate or missing. | Summary is vague and lacks details. | Provides a basic summary with some key points. | Good summary covering most significant contributions. | Comprehensive summary with clear details and significance. |
+| **Strengths and Weaknesses**    | No discussion of strengths or weaknesses. | Limited or biased discussion, lacking depth. | Mentions some strengths and weaknesses without detail. | Good discussion, identifies key points with minor omissions. | Thorough and balanced discussion with insightful analysis. |
+| **Future Directions**           | No suggestions for future research. | Provides trivial or unrelated suggestions. | Some suggestions, but lacking depth or relevance. | Good suggestions with clear links to research gaps. | Excellent, innovative suggestions aligned with research challenges. |
+| **Clarity and Structure**       | Poorly structured, difficult to understand. | Lacks logical flow, contains many errors. | Structure is basic, some parts are unclear. | Generally well-structured, minor issues in clarity. | Clear, logical structure with excellent flow and clarity. |
+| **Critical Analysis**           | No critical analysis, only descriptive. | Limited critical analysis, mostly descriptive. | Provides some critical points but lacks depth. | Good critical analysis with thoughtful points. | Excellent critical analysis demonstrating deep understanding. |
+
+## 11. Learning Outcomes. Learning Outcomes
+
+By the end of this chapter, students should be able to:
+
+1. **Understand the Fundamental Concepts of SDN**: Explain the motivations behind SDN, including its benefits over traditional network architectures.
+2. **Identify the Key Components of SDN**: Describe the roles of SDN controllers, Southbound APIs, Northbound APIs, and data plane devices.
+3. **Differentiate Between Control and Data Planes**: Understand the separation of control and data planes and articulate the benefits of this architectural approach.
+4. **Understand the SDN Architecture Layers**: Explain the different layers in SDN architecture, including the application, control, and infrastructure layers.
+5. **Explain the Role of OpenFlow Protocol**: Describe how the OpenFlow protocol facilitates communication between the SDN controller and network devices.
+6. **Evaluate the Benefits and Challenges of SDN**: Analyze the benefits and potential drawbacks of adopting SDN technology in network environments.
+7. **Identify and Discuss Key Use Cases of SDN**: Give examples of real-world applications of SDN in data centers, WANs, and security solutions.
+8. **Understand the Relationship Between SDN and NFV**: Compare and contrast SDN and NFV, and explain how they can be used together to create flexible network environments.
+9. **Critically Analyze Recent SDN Research**: Review, summarize, and critique recent scholarly articles related to SDN, with particular focus on the evolution of OpenFlow and the application of machine learning techniques in SDN.
+
+## 12. Tutorial Questions
+
+1. **What are the primary motivations behind the development of Software-Defined Networking (SDN)?**
+2. **Explain the key difference between the control plane and the data plane in the context of SDN.**
+3. **Describe the role of an SDN controller and how it interacts with network devices.**
+4. **What is the OpenFlow protocol, and why is it significant in the SDN framework?**
+5. **Identify and explain the main components of the SDN architecture. How do these components interact with each other?**
+6. **What are some of the benefits of separating the control plane from the data plane in SDN?**
+7. **Discuss the main security challenges faced by SDN and possible mitigation strategies.**
+8. **How does SDN contribute to more efficient data center management? Provide specific use case examples.**
+9. **Compare and contrast SDN and Network Function Virtualization (NFV). How do they complement each other?**
+10. **Critique the scalability issues of SDN controllers. What research approaches could address these challenges?**
 
 ## Summary
 
