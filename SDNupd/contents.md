@@ -91,8 +91,8 @@ Recent research focuses on enhancing the capabilities and scalability of SDN con
 
 Students are encouraged to explore a recent journal article related to SDN and write a detailed critique. Select one of the following:
 
-- **"The Evolution of the OpenFlow Standard: A Survey of Recent Developments"**
-- **"Machine Learning in Software-Defined Networking: A Comprehensive Survey"**
+- **"Toward Adaptive and Scalable OpenFlow-SDN Flow Control A Survey"**
+- **"SSDWSN: A Scalable Software-Defined Wireless Sensor Networks"**
 
 ### Guidelines for Critique:
 - **Summarize the Main Contribution**: What is the main idea of the paper, and why is it significant?
