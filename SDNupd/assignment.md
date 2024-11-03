@@ -38,8 +38,8 @@ This assignment focuses on developing the ability to critically analyze research
 | **Critical Analysis**           | No critical analysis, only descriptive. | Limited critical analysis, mostly descriptive. | Provides some critical points but lacks depth. | Good critical analysis with thoughtful points. | Excellent critical analysis demonstrating deep understanding. |
 
 ## Submission Deadline
-- **Due Date**: [Insert Date Here]
-- **Submission Method**: Submit your assignment via [Insert Platform/Method Here]. Ensure the Turnitin similarity report is attached.
+- **Due Date**: [17 November 2024]
+- **Submission Method**: Submit your assignment via [odlsystem]. Ensure the Turnitin similarity report is attached.
 
 ## Plagiarism Policy
 Plagiarism is a serious offense. Ensure that all content is written in your own words and properly cited where appropriate. The Turnitin similarity check will help in avoiding unintended plagiarism.
