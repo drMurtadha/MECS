@@ -15,7 +15,9 @@ Cloud computing is defined as a model that enables ubiquitous, convenient, on-de
 - **Rapid elasticity**: Capabilities can be elastically provisioned and released to scale rapidly outward and inward commensurate with demand.
 - **Measured service**: Cloud systems automatically control and optimize resource use by leveraging a metering capability at some level of abstraction appropriate to the type of service (Karavatselou et al., 2018; Gandecha, 2022).
   
-### 1.3 Benefits and Challenges Cloud computing offers numerous benefits, including cost reduction, increased collaboration, and improved performance (Kamarudin et al., 2022; Jamal, 2020). However, it also presents challenges such as security concerns, data privacy issues, and compliance with regulations (Taleb & Mohamed, 2020; Odun-Ayo et al., 2019).  ---  
+### 1.3 Benefits and Challenges 
+Cloud computing offers numerous benefits, including cost reduction, increased collaboration, and improved performance (Kamarudin et al., 2022; Jamal, 2020). However, it also presents challenges such as security concerns, data privacy issues, and compliance with regulations (Taleb & Mohamed, 2020; Odun-Ayo et al., 2019).  
+---  
 ## 2. Cloud Deployment Models (1 hour)  
 
 ### 2.1 Overview of Deployment Models 
