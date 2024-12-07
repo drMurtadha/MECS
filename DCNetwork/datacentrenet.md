@@ -11,13 +11,23 @@ Emerging technologies, such as photonic networking and advanced virtualization t
 In conclusion, the landscape of data centre networks is rapidly evolving, driven by the need for higher performance, energy efficiency, and robust security. The integration of advanced architectures such as PON, coupled with emerging technologies and a focus on energy efficiency, will be crucial in shaping the future of data centres. As these networks continue to grow in complexity, ongoing research and innovation will be essential to address the challenges they face.
 
 References:
+
 Al-Azez, Z., Lawey, A., El-Gorashi, T., & Elmirghani, J. (2019). Energy efficient iot virtualization framework with peer to peer networking and processing. Ieee Access, 7, 50697-50709. https://doi.org/10.1109/access.2019.2911117
+
 Aznaoui, H. (2023). A virtual data center comparison of different firewalls' performance. JAC, 1(1), 1-8. https://doi.org/10.36755/jac.v1i1.46
+
 Eltraify, A., Musa, M., & Elmirghani, J. (2019). Tdm/wdm over awgr based passive optical network data centre architecture., 1-5. https://doi.org/10.1109/icton.2019.8840326
+
 Eltraify, A., Musa, M., Al-Quzweeni, A., & Elmirghani, J. (2018). Experimental evaluation of passive optical network based data centre architecture.. https://doi.org/10.1109/icton.2018.8473646
+
 Hammadi, A. and Mhamdi, L. (2014). A survey on architectures and energy efficiency in data center networks. Computer Communications, 40, 1-21. https://doi.org/10.1016/j.comcom.2013.11.005
+
 Hammadi, A., El-Gorashi, T., & Elmirghani, J. (2015). High performance awgr pons in data centre networks.. https://doi.org/10.1109/icton.2015.7193567
+
 Kliazovich, D., Bouvry, P., & Khan, S. (2010). Greencloud: a packet-level simulator of energy-aware cloud computing data centers. The Journal of Supercomputing, 62(3), 1263-1283. https://doi.org/10.1007/s11227-010-0504-1
+
 Mohamed, S., El-Gorashi, T., & Elmirghani, J. (2018). Energy efficiency of server-centric pon data center architecture for fog computing.. https://doi.org/10.1109/icton.2018.8473877
+
 Nurbojatmiko, N. (2024). Information security evaluation of data centre architecture using cobit 5. Sinkron, 9(1), 466-476. https://doi.org/10.33395/sinkron.v9i1.13224
+
 Pitwon, R. (2024). Photonic building blocks for architectural reconfigurability in hyperscale data centres.. https://doi.org/10.1117/12.3009159
