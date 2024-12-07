@@ -17,9 +17,11 @@ The key characteristics of cloud computing include:
 - **Measured service**: Cloud systems automatically control and optimize resource use by leveraging a metering capability at some level of abstraction appropriate to the type of service (Karavatselou et al., 2018; Gandecha, 2022).
   
 ### 1.3 Benefits and Challenges
--
+
 Cloud computing offers numerous benefits, including cost reduction, increased collaboration, and improved performance (Kamarudin et al., 2022; Jamal, 2020). However, it also presents challenges such as security concerns, data privacy issues, and compliance with regulations (Taleb & Mohamed, 2020; Odun-Ayo et al., 2019).  
+
 ---  
+
 ## 2. Cloud Deployment Models (1 hour)  
 
 ### 2.1 Overview of Deployment Models 
@@ -42,11 +44,14 @@ Cloud computing service models define the type of services provided to users. Th
 
 ### 3.2 Advantages and Disadvantages of Service Models 
 Each service model has distinct advantages and disadvantages. IaaS provides maximum control and flexibility but requires more management effort. PaaS simplifies the development process but may limit control over the underlying infrastructure. SaaS offers ease of use and accessibility but may lack customization options (Shabu, 2023; (Gandecha, 2022; .  
+
 ### 3.3 Future Trends in Cloud Services 
 The cloud computing landscape is continuously evolving, with trends such as multi-cloud strategies, increased focus on security, and the integration of artificial intelligence and machine learning into cloud services (Taleb & Mohamed, 2020; Jamal, 2020). Organizations are increasingly adopting hybrid and multi-cloud environments to optimize their operations and enhance resilience (Bhatia* et al., 2020).  
 ---  
+
 ## Conclusion Cloud computing represents a significant advancement in how organizations manage and utilize computing resources. Understanding the architecture, deployment models, and service models is crucial for leveraging cloud technology effectively. As cloud computing continues to evolve, staying informed about emerging trends and best practices will be essential for success in this dynamic field.  
 ---  
+
 ## References:
 Adewale D. Ashogbon1, Paul A. Markham (2023). Diffusing the innovation of cloud computing implementation: international marketing organization perspective. Journal of Electrical Electronics Engineering, 2(2). https://doi.org/10.33140/jeee.02.02.01
 
