@@ -7,7 +7,8 @@
 **Word Limit**: 1500 words  
 ---  
 ## Marking Scheme
-| Criteria | Marks | |----------------------------------------------------|-------| 
+| Criteria | Marks | 
+|----------------------------------------------------|-------| 
 | **1. Explanation of Deployment Models** | 20 | | - Clear definition of each model (Public, Private, Hybrid, Community) | 10 | | - Examples and use cases for each model | 10 | 
 | **2. Overview of Service Models** | 20 | | - Clear definition of each model (IaaS, PaaS, SaaS) | 10 | | - Examples and use cases for each model | 10 | 
 | **3. Advantages and Disadvantages** | 30 | | - In-depth analysis of pros and cons for each model | 15 | | - Real-world examples to illustrate points | 15 | 
