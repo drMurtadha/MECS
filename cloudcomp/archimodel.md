@@ -32,9 +32,11 @@ Cloud computing deployment models determine how cloud services are made availabl
   **Community Cloud**: Infrastructure is shared between several organizations from a specific community with common concerns (e.g., security, compliance) (Sudyana et al., 2019; Gandecha, 2022).
   
 ### 2.2 Considerations for Choosing a Deployment Model 
--
+
 When selecting a deployment model, organizations must consider factors such as cost, scalability, security, and compliance with industry regulations (Haryanto, 2019; Odun-Ayo et al., 2019). Each model has its advantages and disadvantages, and the choice often depends on the specific needs and constraints of the organization.  
+
 ---  
+
 ## 3. Cloud Service Models (1 hour)  
 ### 3.1 Overview of Service Models 
 Cloud computing service models define the type of services provided to users. The three primary models are: 
