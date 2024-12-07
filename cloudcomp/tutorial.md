@@ -1,9 +1,11 @@
 # Tutorial Question: Cloud Computing: Architecture and Models (Deployment and Service)  
-## Question **Discuss the various deployment and service models of cloud computing. In your answer, include:
-**  
+## Question 
+
+**Discuss the various deployment and service models of cloud computing. In your answer, include:**
 1. A detailed explanation of the four primary deployment models (Public, Private, Hybrid, Community). 
 2. A comprehensive overview of the three main service models (IaaS, PaaS, SaaS). 
 3. Analyze the advantages and disadvantages of each model, providing real-world examples to support your arguments.  
+
 **Word Limit**: 1500 words  
 ---  
 ## Marking Scheme
