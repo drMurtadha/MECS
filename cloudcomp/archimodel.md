@@ -9,13 +9,15 @@ This lecture will provide a comprehensive understanding of cloud computing, focu
 ### 1.1 Definition and Evolution 
 Cloud computing is defined as a model that enables ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction (Karavatselou et al., 2018). This paradigm shift in computing has evolved from traditional models such as grid computing and distributed computing, offering enhanced flexibility and scalability (Jaiswal & Hiwarkar, 2022; Donno et al., 2019).  
 
-### 1.2 Key Characteristics The key characteristics of cloud computing include: 
+### 1.2 Key Characteristics 
+The key characteristics of cloud computing include: 
 - **On-demand self-service**: Users can automatically provision computing resources without requiring human interaction with service providers. - **Broad network access**: Services are available over the network and accessed through standard mechanisms that promote use across various platforms.
 - **Resource pooling**: The provider's computing resources are pooled to serve multiple consumers, with different physical and virtual resources dynamically assigned and reassigned according to demand.
 - **Rapid elasticity**: Capabilities can be elastically provisioned and released to scale rapidly outward and inward commensurate with demand.
 - **Measured service**: Cloud systems automatically control and optimize resource use by leveraging a metering capability at some level of abstraction appropriate to the type of service (Karavatselou et al., 2018; Gandecha, 2022).
   
-### 1.3 Benefits and Challenges 
+### 1.3 Benefits and Challenges
+-
 Cloud computing offers numerous benefits, including cost reduction, increased collaboration, and improved performance (Kamarudin et al., 2022; Jamal, 2020). However, it also presents challenges such as security concerns, data privacy issues, and compliance with regulations (Taleb & Mohamed, 2020; Odun-Ayo et al., 2019).  
 ---  
 ## 2. Cloud Deployment Models (1 hour)  
@@ -28,6 +30,7 @@ Cloud computing deployment models determine how cloud services are made availabl
   **Community Cloud**: Infrastructure is shared between several organizations from a specific community with common concerns (e.g., security, compliance) (Sudyana et al., 2019; Gandecha, 2022).
   
 ### 2.2 Considerations for Choosing a Deployment Model 
+-
 When selecting a deployment model, organizations must consider factors such as cost, scalability, security, and compliance with industry regulations (Haryanto, 2019; Odun-Ayo et al., 2019). Each model has its advantages and disadvantages, and the choice often depends on the specific needs and constraints of the organization.  
 ---  
 ## 3. Cloud Service Models (1 hour)  
