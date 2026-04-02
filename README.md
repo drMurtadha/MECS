@@ -5,7 +5,7 @@ This course focuses on advanced topics in the computer network. Topics covered i
 
 - [IPv6 Overview](./IPV6/overviewipv6.html)
 - [Introduction to IPv6](./IPV6/introIpV6.md)
-- [IPv6 Addressing](./IPV6/IPv6addressing.html)
+- [IPv6 Addressing](./IPV6/IPv6addressing.md)
 - [Address Configuration](./IPV6/Addressconfig.html)
 - [Security Considerations](./IPV6/Securitycons.html)
 - [Transmission Mechanism](./IPV6/Transmitmech.html)
