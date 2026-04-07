@@ -13,3 +13,17 @@ This course focuses on advanced topics in the computer network. Topics covered i
 - [Deployment](./IPV6/Deploy.md)
 - [Tutorial](./IPV6/tutorial.md)
 - [Solution](./IPV6/solution.md)
+
+## SDN
+
+- [Introduction to SDN](./SDNupd/contents.md#introduction-to-software-defined-networking-sdn)
+- [Key Components of SDN](./SDNupd/contents.md#key-components-of-sdn)
+- [SDN Architecture](./SDNupd/contents.md#sdn-architecture)
+- [The Control and Data Plane](./SDNupd/contents.md#the-control-and-data-plane)
+- [OpenFlow Protocol](./SDNupd/contents.md#openflow-protocol)
+- [Benefits and Challenges of SDN](./SDNupd/contents.md#benefits-and-challenges-of-sdn)
+- [Use Cases and Applications of SDN](./SDNupd/contents.md#use-cases-and-applications-of-sdn)
+- [SDN and NFV](./SDNupd/contents.md#sdn-and-network-function-virtualization-nfv)
+- [Research Perspectives and Case Studies](./SDNupd/contents.md#research-perspectives-and-case-studies)
+- [Activity: Writing Critiques](./SDNupd/contents.md#activity-writing-critiques-on-recent-sdn-research)
+- [Tutorial Questions](./SDNupd/contents.md#tutorial-questions)
