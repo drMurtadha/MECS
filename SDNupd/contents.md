@@ -11,9 +11,9 @@
 7. [Use Cases and Applications of SDN](https://github.com/drMurtadha/MECS/blob/main/SDNupd/contents.md#7-use-cases-and-applications-of-sdn)
 8. [SDN and Network Function Virtualization (NFV)](https://github.com/drMurtadha/MECS/blob/main/SDNupd/contents.md#8-sdn-and-network-function-virtualization-nfv)
 9. [Research Perspectives and Case Studies](https://github.com/drMurtadha/MECS/blob/main/SDNupd/contents.md#9-research-perspectives-and-case-studies)
-10. [Activity: Writing Critiques on Recent SDN Research](#activity-writing-critiques-on-recent-sdn-research)
-11. [Learning Outcomes](#learning-outcomes)
-12. [Tutorial Questions](#tutorial-questions)
+10. [Activity: Writing Critiques on Recent SDN Research](https://github.com/drMurtadha/MECS/blob/main/SDNupd/contents.md#10-activity-writing-critiques-on-recent-sdn-research)
+11. [Learning Outcomes](https://github.com/drMurtadha/MECS/blob/main/SDNupd/contents.md#11-learning-outcomes)
+12. [Tutorial Questions](https://github.com/drMurtadha/MECS/blob/main/SDNupd/contents.md#12-tutorial-questions)
 
 ---
 
