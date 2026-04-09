@@ -3,7 +3,7 @@
 ## Table of Contents
 
 1. [Introduction to Software-Defined Networking (SDN)](#introduction-to-software-defined-networking-sdn)
-2. [Key Components of SDN]([#key-components-of-sdn](https://github.com/drMurtadha/MECS/blob/main/SDNupd/contents.md#2-key-components-of-sdn))
+2. [Key Components of SDN](https://github.com/drMurtadha/MECS/blob/main/SDNupd/contents.md#2-key-components-of-sdn)
 3. [SDN Architecture](#sdn-architecture)
 4. [The Control and Data Plane](#the-control-and-data-plane)
 5. [OpenFlow Protocol](#openflow-protocol)
