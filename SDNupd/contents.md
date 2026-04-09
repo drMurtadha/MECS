@@ -4,7 +4,7 @@
 
 1. [Introduction to Software-Defined Networking (SDN)](https://github.com/drMurtadha/MECS/blob/main/SDNupd/contents.md#1-introduction-to-software-defined-networking-sdn)
 2. [Key Components of SDN](https://github.com/drMurtadha/MECS/blob/main/SDNupd/contents.md#2-key-components-of-sdn)
-3. [SDN Architecture][(https://github.com/drMurtadha/MECS/blob/main/SDNupd/contents.md#3-sdn-architecture)
+3. [SDN Architecture](https://github.com/drMurtadha/MECS/blob/main/SDNupd/contents.md#3-sdn-architecture)
 4. [The Control and Data Plane](https://github.com/drMurtadha/MECS/blob/main/SDNupd/contents.md#4-the-control-and-data-plane)
 5. [OpenFlow Protocol](https://github.com/drMurtadha/MECS/blob/main/SDNupd/contents.md#5-openflow-protocol)
 6. [Benefits and Challenges of SDN](https://github.com/drMurtadha/MECS/blob/main/SDNupd/contents.md#6-benefits-and-challenges-of-sdn)
