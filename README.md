@@ -27,3 +27,6 @@ This course focuses on advanced topics in the computer network. Topics covered i
 - [Research Perspectives and Case Studies](./SDNupd/contents.md#research-perspectives-and-case-studies)
 - [Activity: Writing Critiques](./SDNupd/contents.md#activity-writing-critiques-on-recent-sdn-research)
 - [Tutorial Questions](./SDNupd/contents.md#tutorial-questions)
+
+## Sensor Network
+- [Lecture notes on Sensor Network](MECS2323_SensorNetwork_Lecture.md)
